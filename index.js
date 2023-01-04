@@ -1,1 +1,1 @@
-my var = "a"
+let myVar = "a + c"
